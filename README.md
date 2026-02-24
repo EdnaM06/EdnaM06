@@ -34,12 +34,21 @@
 
 ---
 
-## 📊 GitHub Stats
+---
+
+## 💻 I Code With
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdnaM06&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=EdnaM06&theme=merko&hide_border=false" alt="Streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdnaM06&theme=merko&hide_border=false&layout=compact" alt="Top languages" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="50" />
 </p>
 
 ---

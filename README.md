@@ -25,7 +25,7 @@ My work lives at the intersection of:
 </div>
 
 <div style="flex: 1; text-align: center;">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Black girl typing on computer" width="250"/>
+<img src="./a_dark_professional_portfolio_banner_style_infogr.png" alt="Black woman IT expert typing on computer" width="300"/>
 </div>
 
 </div>

@@ -5,16 +5,13 @@
 
 ## 🧠 My Perspective
 
-<div style="display: flex; align-items: center; gap: 20px;">
-
-<div style="flex: 1;">
 I don’t just analyze data.  
 I investigate patterns.  
 I question assumptions.  
 I translate complexity into clarity.
 
-Data is rarely clean.  
-Insight is rarely obvious.  
+Data is rarely clean.
+Insight is rarely obvious.
 Impact is never accidental.
 
 My work lives at the intersection of:
@@ -22,13 +19,6 @@ My work lives at the intersection of:
 - Business Intelligence
 - Predictive Thinking
 - Strategic Decision-Making
-</div>
-
-<div style="flex: 1; text-align: center;">
-<img src="https://i.imgur.com/your_uploaded_image.png" alt="Black woman IT expert typing on computer" width="300"/>
-</div>
-
-</div>
 
 ---
 
@@ -77,8 +67,3 @@ My work lives at the intersection of:
 ✔ Predictive models that anticipate trends  
 ✔ Executive dashboards that tell a story  
 ✔ Analytical clarity in complex environments  
-
----
-
-🚀 Currently building forecasting & business analytics projects.  
-📚 Constantly refining my craft.

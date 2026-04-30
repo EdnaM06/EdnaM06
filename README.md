@@ -5,7 +5,7 @@
 
 ## 🧠 My Perspective
 
-Most teams don’t struggle with data — they struggle with making sense of it.
+Most teams don’t struggle with data - they struggle with making sense of it.
 
 I work with data in real business environments, where information is often messy, incomplete, and underutilized. My focus is on translating that data into clear insights that support better decisions.
 

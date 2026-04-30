@@ -66,11 +66,11 @@ Here are some of the projects I’ve worked on and contributed to:
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 🔭 Expanding My Edge
+### 📚 Currently Developing
+
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-2F2F2F?style=for-the-badge&logo=mixpanel&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-Analysis%20%26%20Inference-blue?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Certification-orange?style=for-the-badge)
 
 ---
 

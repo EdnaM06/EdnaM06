@@ -1,24 +1,53 @@
 # Edna Kobo 👋  
-### Refining raw data into strategic intelligence.
+### Turning data into clear, actionable decisions.
 
 ---
 
 ## 🧠 My Perspective
 
-I don’t just analyze data.  
-I investigate patterns.  
-I question assumptions.  
-I translate complexity into clarity.
+Most teams don’t struggle with data — they struggle with making sense of it.
 
-Data is rarely clean.
-Insight is rarely obvious.
-Impact is never accidental.
+I work with data in real business environments, where information is often messy, incomplete, and underutilized. My focus is on translating that data into clear insights that support better decisions.
 
-My work lives at the intersection of:
-- Data Science
-- Business Intelligence
-- Predictive Thinking
-- Strategic Decision-Making
+My approach is simple:
+- Understand the business context  
+- Structure the data  
+- Surface what actually matters  
+
+---
+
+## 📊 What I Do
+
+- Analyze and structure real-world datasets (sales, customer feedback, performance data)  
+- Build dashboards that highlight trends, gaps, and opportunities  
+- Translate raw data into insights that support operational and strategic decisions  
+
+---
+
+## 📌 Selected Work
+
+**Win/Loss Analysis Dashboard – BCX**  
+- Built a Power BI dashboard analyzing business opportunities  
+- Identified patterns behind a **47.49% closed-won rate**  
+- Contributed to insights that helped reduce opportunity loss by ~20%  
+
+**Customer Survey Analysis – Openserve (Telkom)**  
+- Translated customer survey data to evaluate performance across teams  
+- Designed dashboards highlighting service gaps and performance trends  
+- Enabled clearer performance comparison across Business Development and Service Managers  
+
+---
+
+## 🗂️ Additional Projects
+
+Here are some of the projects I’ve worked on and contributed to:
+
+🔗 **Portfolio Projects Repository**  
+👉 https://github.com/EdnaM06/Portfolio-Projects.git  
+
+- A collection of data analysis projects exploring different datasets and problem spaces  
+- Includes data cleaning, exploratory analysis, and visualization work  
+- Demonstrates practical use of Python, SQL, and BI tools  
 
 ---
 
@@ -63,7 +92,13 @@ My work lives at the intersection of:
 
 ## 📈 What I Deliver
 
-✔ Clean, structured, decision-ready datasets  
-✔ Predictive models that anticipate trends  
-✔ Executive dashboards that tell a story  
-✔ Analytical clarity in complex environments  
+✔ Structured, decision-ready datasets  
+✔ Clear, visual dashboards  
+✔ Insights grounded in real business problems  
+✔ Data translated into action  
+
+---
+
+## 🤝 Let’s Connect
+
+I’m currently transitioning into Data / Product Analytics roles and open to opportunities where I can continue building impactful, insight-driven work.

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\ednam\Downloads\github Bannerv3.png" alt="Edna Kobo Banner">
+  <img src="github-Bannerv3.png" alt="Edna Kobo Banner" width="100%">
 </p>
 
 # Edna Kobo 👋  

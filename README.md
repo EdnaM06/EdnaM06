@@ -58,23 +58,22 @@ Here are some of the projects I’ve worked on and contributed to:
 ## 🧰 My Toolkit
 
 ### 👩‍💻 Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=41ba09)
+![Pandas](https://img.shields.io/badge/Pandas-1f2937?style=for-the-badge&logo=pandas&logoColor=41ba09)
+![NumPy](https://img.shields.io/badge/NumPy-1f2937?style=for-the-badge&logo=numpy&logoColor=41ba09)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1f2937?style=for-the-badge&logo=scikit-learn&logoColor=41ba09)
 
 ### 🗄️ Data Infrastructure
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge&logo=mysql&logoColor=41ba09)
 
 ### 📊 Insight & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-1f2937?style=for-the-badge&logo=powerbi&logoColor=41ba09)
+![Tableau](https://img.shields.io/badge/Tableau-1f2937?style=for-the-badge&logo=tableau&logoColor=41ba09)
 
 ### 📚 Currently Developing
-
-![Mixpanel](https://img.shields.io/badge/Mixpanel-2F2F2F?style=for-the-badge&logo=mixpanel&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-Analysis%20%26%20Inference-blue?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Certification-orange?style=for-the-badge)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-1f2937?style=for-the-badge&logo=mixpanel&logoColor=41ba09)
+![Statistics](https://img.shields.io/badge/Statistics-1f2937?style=for-the-badge&logo=chart.js&logoColor=41ba09)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1f2937?style=for-the-badge&logo=googleanalytics&logoColor=41ba09)
 
 ---
 

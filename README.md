@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR-BANNER-FILE-NAME.png" alt="Edna Kobo Banner" />
+  <img src="githubBannerv3.png" alt="Edna Kobo Banner" />
 </p>
 
 # Edna Kobo 👋  

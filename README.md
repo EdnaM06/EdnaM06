@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="YOUR-BANNER-FILE-NAME.png" alt="Edna Kobo Banner" />
+</p>
+
 # Edna Kobo 👋  
 ### Turning data into clear, actionable decisions.
 

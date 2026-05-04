@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-Bannerv3.png" alt="Edna Kobo Banner" width="100%">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQG_Qsa6mF5Wog/profile-displaybackgroundimage-shrink_350_1400/B4DZ3ze0yfJgAU-/0/1777906437656?e=1779321600&v=beta&t=DyF6Vgj6LsuBBDK5Pghmmop3LWAgG65I58gKF8rWsNo" alt="Linkedin Banner" width="100%">
 </p>
 
 # Edna Kobo 👋  

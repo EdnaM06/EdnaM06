@@ -1,4 +1,4 @@
-![Edna Kobo Banner](assets/your-image-name.png)
+![Edna Kobo Banner](https://raw.githubusercontent.com/EdnaM06/EdnaM06/main/assets/githubBannerv3.png)
 
 # Edna Kobo 👋  
 ### Turning data into clear, actionable decisions.

@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="githubBannerv3.png" alt="Edna Kobo Banner" />
-</p>
+![Edna Kobo Banner](assets/your-image-name.png)
 
 # Edna Kobo 👋  
 ### Turning data into clear, actionable decisions.

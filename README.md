@@ -48,6 +48,7 @@ Here are some of the projects I’ve worked on and contributed to:
 
 🔗 **Portfolio Projects Repository**  
 👉 https://github.com/EdnaM06/Portfolio-Projects.git  
+👉https://github.com/EdnaM06/BCX-Opportunity-Win-Vs-Loss-Insights.git
 
 - A collection of data analysis projects exploring different datasets and problem spaces  
 - Includes data cleaning, exploratory analysis, and visualization work  

@@ -7,32 +7,29 @@
 </p>
 
 # Edna Kobo 👋  
-### Turning data into clear, actionable decisions.
+### Helping teams understand what drives performance and what actions improve it.
 
 ---
 
 ## 🧠 My Perspective
 
-Most teams don’t struggle with data - they struggle with making sense of it.
+Most teams don’t struggle with data — they struggle with knowing what it means and what to do next.
 
-I work with data in real business environments, where information is often messy, incomplete, and underutilized. My focus is on translating that data into clear insights that support better decisions.
+I work with operational, customer, and revenue data to uncover what is actually driving performance and where action is needed.
 
-My approach is simple:
-- Understand the business context  
-- Structure the data  
-- Surface what actually matters  
+My focus is not reporting data, but explaining it in a way that supports better decisions.
 
 ---
 
 ## 📊 What I Do
 
-- Analyze and structure real-world datasets (sales, customer feedback, performance data)  
-- Build dashboards that highlight trends, gaps, and opportunities  
-- Translate raw data into insights that support operational and strategic decisions  
+- Identify key drivers behind sales, customer, and operational performance  
+- Build dashboards that highlight risks, opportunities, and trends that matter  
+- Translate raw data into clear actions that support business decisions  
 
 ---
 
-## 📌 Selected Work
+## 📌Impact Highlights
 
 **Win/Loss Analysis Dashboard – BCX**  
 - Built a Power BI dashboard analyzing business opportunities  
@@ -52,11 +49,11 @@ These projects focus on turning operational, customer, and revenue data into ins
 
 | Project | What It’s About | Link |
 |----------|------------------|------|
-| Billing & Revenue Analytics (SaaS Product Analysis) | Identified key drivers of churn, billing inefficiencies, and revenue leakage in subscription-based systems to improve revenue visibility and stability. |https://github.com/EdnaM06/Saas-Billing-Analytics.git|
-| Customer Email Growth Analytics | Analysed customer behaviour and campaign response patterns to improve segmentation, targeting, and email conversion performance. |https://github.com/EdnaM06/email-growth-marketing.git|
-| Creative Performance & Digital Marketing Analytics | Evaluated ad and campaign performance across the marketing funnel to identify high-performing creatives and optimise ROI. |https://github.com/EdnaM06/Creative-performance-analysis.git |
+| Billing & Revenue Analytics (SaaS Product Analysis) | Identified key drivers of churn, billing inefficiencies, and revenue leakage in subscription-based systems to improve revenue visibility and stability. | https://github.com/EdnaM06/Saas-Billing-Analytics.git |
+| Customer Email Growth Analytics | Analysed customer behaviour and campaign response patterns to improve segmentation, targeting, and email conversion performance. | https://github.com/EdnaM06/email-growth-marketing.git |
+| Creative Performance & Digital Marketing Analytics | Evaluated ad and campaign performance across the marketing funnel to identify high-performing creatives and optimise ROI. | https://github.com/EdnaM06/Creative-performance-analysis.git |
 | Sales Opportunity Win vs Loss Analysis | Performed win/loss analysis to uncover the key factors influencing deal success and failure, improving understanding of revenue drivers. | https://github.com/EdnaM06/BCX-Opportunity-Win-Vs-Loss-Insights.git |
-| ExploreAI - Program - Projects | Additional exploratory analysis projects focused on data cleaning, visualization, and insight generation using SQL and Python. | https://github.com/EdnaM06/ExploreAI-Program-Projects.git |
+| ExploreAI Program Projects | Additional exploratory analysis projects focused on data cleaning, visualization, and insight generation using SQL and Python. | https://github.com/EdnaM06/ExploreAI-Program-Projects.git |
 
 ---
 
@@ -100,10 +97,10 @@ These projects focus on turning operational, customer, and revenue data into ins
 
 ## 📈 What I Deliver
 
-✔ Structured, decision-ready datasets  
-✔ Clear, visual dashboards  
-✔ Insights grounded in real business problems  
-✔ Data translated into action  
+✔ Identification of performance drivers and business risks  
+✔ Dashboards that support decision-making, not just reporting  
+✔ Insights that explain why performance is changing  
+✔ Recommendations that connect data to action  
 
 ---
 

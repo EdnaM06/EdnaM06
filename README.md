@@ -13,7 +13,7 @@
 
 ## 🧠 My Perspective
 
-Most teams don’t struggle with data — they struggle with knowing what it means and what to do next.
+Most teams don’t struggle with data - they struggle with knowing what it means and what to do next.
 
 I work with operational, customer, and revenue data to uncover what is actually driving performance and where action is needed.
 

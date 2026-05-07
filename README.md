@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b26b5ede-13a2-46c5-84e6-f5b526a032d7" alt="Edna Kobo Banner" width="100%">
+  <img 
+    src="https://github.com/user-attachments/assets/ae026a14-f94c-4bff-82ac-66910cf75876" 
+    alt="Edna Kobo Banner" 
+    width="100%" 
+  />
 </p>
 
 # Edna Kobo 👋  

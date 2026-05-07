@@ -46,17 +46,17 @@ My approach is simple:
 
 ---
 
-## 🗂️ Additional Projects
+## 📊 Selected Analytics Projects
 
-Here are some of the projects I’ve worked on and contributed to:
+These projects focus on turning operational, customer, and revenue data into insights that improve decision-making, performance, and business outcomes.
 
-🔗 **Portfolio Projects Repository**  
-👉 https://github.com/EdnaM06/Portfolio-Projects.git  
-👉https://github.com/EdnaM06/BCX-Opportunity-Win-Vs-Loss-Insights.git
-
-- A collection of data analysis projects exploring different datasets and problem spaces  
-- Includes data cleaning, exploratory analysis, and visualization work  
-- Demonstrates practical use of Python, SQL, and BI tools  
+| Project | What It’s About | Link |
+|----------|------------------|------|
+| Billing & Revenue Analytics (SaaS Product Analysis) | Identified key drivers of churn, billing inefficiencies, and revenue leakage in subscription-based systems to improve revenue visibility and stability. | https://github.com/EdnaM06/Portfolio-Projects |
+| Customer Email Growth Analytics | Analysed customer behaviour and campaign response patterns to improve segmentation, targeting, and email conversion performance. | https://github.com/EdnaM06/Portfolio-Projects |
+| Creative Performance & Digital Marketing Analytics | Evaluated ad and campaign performance across the marketing funnel to identify high-performing creatives and optimise ROI. | https://github.com/EdnaM06/Portfolio-Projects |
+| Sales Opportunity Win vs Loss Analysis | Performed win/loss analysis to uncover the key factors influencing deal success and failure, improving understanding of revenue drivers. | https://github.com/EdnaM06/BCX-Opportunity-Win-Vs-Loss-Insights.git |
+| Cross-Domain Analytics Projects | Additional exploratory analysis projects focused on data cleaning, visualization, and insight generation using SQL and Python. | https://github.com/EdnaM06 |
 
 ---
 

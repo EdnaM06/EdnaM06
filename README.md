@@ -52,11 +52,11 @@ These projects focus on turning operational, customer, and revenue data into ins
 
 | Project | What It’s About | Link |
 |----------|------------------|------|
-| Billing & Revenue Analytics (SaaS Product Analysis) | Identified key drivers of churn, billing inefficiencies, and revenue leakage in subscription-based systems to improve revenue visibility and stability. |(https://github.com/EdnaM06/Saas-Billing-Analytics.git)|
-| Customer Email Growth Analytics | Analysed customer behaviour and campaign response patterns to improve segmentation, targeting, and email conversion performance. |(https://github.com/EdnaM06/email-growth-marketing.git) |
-| Creative Performance & Digital Marketing Analytics | Evaluated ad and campaign performance across the marketing funnel to identify high-performing creatives and optimise ROI. |(https://github.com/EdnaM06/Creative-performance-analysis.git) |
+| Billing & Revenue Analytics (SaaS Product Analysis) | Identified key drivers of churn, billing inefficiencies, and revenue leakage in subscription-based systems to improve revenue visibility and stability. |https://github.com/EdnaM06/Saas-Billing-Analytics.git|
+| Customer Email Growth Analytics | Analysed customer behaviour and campaign response patterns to improve segmentation, targeting, and email conversion performance. |https://github.com/EdnaM06/email-growth-marketing.git|
+| Creative Performance & Digital Marketing Analytics | Evaluated ad and campaign performance across the marketing funnel to identify high-performing creatives and optimise ROI. |https://github.com/EdnaM06/Creative-performance-analysis.git |
 | Sales Opportunity Win vs Loss Analysis | Performed win/loss analysis to uncover the key factors influencing deal success and failure, improving understanding of revenue drivers. | https://github.com/EdnaM06/BCX-Opportunity-Win-Vs-Loss-Insights.git |
-| ExploreAI - Program - Projects | Additional exploratory analysis projects focused on data cleaning, visualization, and insight generation using SQL and Python. | (https://github.com/EdnaM06/ExploreAI-Program-Projects.git) |
+| ExploreAI - Program - Projects | Additional exploratory analysis projects focused on data cleaning, visualization, and insight generation using SQL and Python. | https://github.com/EdnaM06/ExploreAI-Program-Projects.git |
 
 ---
 

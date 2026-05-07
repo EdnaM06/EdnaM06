@@ -34,7 +34,7 @@ My focus is not reporting data, but explaining it in a way that supports better 
 **Win/Loss Analysis Dashboard – BCX**  
 - Built a Power BI dashboard analyzing business opportunities  
 - Identified patterns behind a **47.49% closed-won rate**  
-- Contributed to insights that helped reduce opportunity loss by ~20%  
+- Contributed to insights that helped reduce opportunity loss by 20%  
 
 **Customer Survey Analysis – Openserve (Telkom)**  
 - Translated customer survey data to evaluate performance across teams  

@@ -1,8 +1,8 @@
 <p align="center">
   <img 
-    <img width="1584" height="396" alt="GITHUBBannerv3" src="https://github.com/user-attachments/assets/7d429a51-2ec3-4ccc-90ad-2c59858fde7b" />
-    alt="Edna Kobo Banner" 
-    width="100%" 
+    src="https://github.com/user-attachments/assets/8a85a7f2-2684-42e1-820c-ef45d88ee034"
+    alt="Edna Kobo Banner"
+    width="100%"
   />
 </p>
 

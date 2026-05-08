@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/ae026a14-f94c-4bff-82ac-66910cf75876" 
+    <img width="1584" height="396" alt="GITHUBBannerv3" src="https://github.com/user-attachments/assets/7d429a51-2ec3-4ccc-90ad-2c59858fde7b" />
     alt="Edna Kobo Banner" 
     width="100%" 
   />

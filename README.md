@@ -6,7 +6,9 @@
   />
 </p>
 
-# Edna Kobo 👋  
+# Edna Kobo 👋 
+
+### Solving business problems through data.
 
 ---
 

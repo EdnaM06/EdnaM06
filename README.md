@@ -7,7 +7,6 @@
 </p>
 
 # Edna Kobo 👋  
-### Helping teams understand what drives performance and what actions improve it.
 
 ---
 
